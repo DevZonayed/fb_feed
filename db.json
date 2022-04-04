@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Ariful Islam",
+      "user_photo": "https://i0.wp.com/www.proariful.me/php_assets/uploads/2021/06/Arif1.png?w=500&ssl=1",
+      "content": "আপনি যদি কাউকে ভালবেসে ফেলেন তারপর যদি তাকে বিয়ে করার জন্য মরিয়া হয়ে উঠেন তাহলে বুঝবেন আপনার ভালবাসার সাথে কিছু মোহ আছে। আর যদি তাকে আপনার চাইতে ভাল মানুষের সাথে বিয়ে দিতে চান তাহলে নিশ্চিত হতে পারেন আপনার ভালবাসাটা সত্যিকারের।",
+      "post_image": "https://cdn.britannica.com/84/73184-004-E5A450B5/Sunflower-field-Fargo-North-Dakota.jpg"
+    },
+    {
+      "name": "Mst Sanzida Khatun",
+      "user_photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fbeautiful%2520flowers%2F&psig=AOvVaw0A6JKkJClQykbhn8bVKvtb&ust=1648912458801000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOittN6T8_YCFQAAAAAdAAAAABAD",
+      "content": "The first option is easy and will work if your theme offers this functionality. Please note that the process can differ on theme purchases but generally follows similar guidelines. We’ll use the Highend Multipurpose WordPress theme for this demo because it features one-click demo imports from the theme dashboard.",
+      "post_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fphotos.com%2F&psig=AOvVaw0A6JKkJClQykbhn8bVKvtb&ust=1648912458801000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOittN6T8_YCFQAAAAAdAAAAABAJ",
+      "id": 2
+    },
+    {
+      "name": "Mst Sanzida Khatun",
+      "user_photo": "https://photos.com/images/rendered/default/framed-print/images-medium-5/fuji-mountain-in-autumn-doctoregg.jpg?imgWI=36&imgHI=24&sku=CRQ13&mat1=PM918&mat2=&t=2&b=2&l=2&r=2&off=0.5&frameW=0.875",
+      "content": "The first option is easy and will work if your theme offers this functionality. Please note that the process can differ on theme purchases but generally follows similar guidelines. We’ll use the Highend Multipurpose WordPress theme for this demo because it features one-click demo imports from the theme dashboard.",
+      "post_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fphotos.com%2F&psig=AOvVaw0A6JKkJClQykbhn8bVKvtb&ust=1648912458801000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOittN6T8_YCFQAAAAAdAAAAABAJ",
+      "id": 3
+    },
+    {
+      "name": "Mst Sanzida Khatun",
+      "user_photo": "https://photos.com/images/rendered/default/framed-print/images-medium-5/fuji-mountain-in-autumn-doctoregg.jpg?imgWI=36&imgHI=24&sku=CRQ13&mat1=PM918&mat2=&t=2&b=2&l=2&r=2&off=0.5&frameW=0.875",
+      "content": "The first option is easy and will work if your theme offers this functionality. Please note that the process can differ on theme purchases but generally follows similar guidelines. We’ll use the Highend Multipurpose WordPress theme for this demo because it features one-click demo imports from the theme dashboard.",
+      "post_image": "https://photos.com/images/rendered/default/framed-print/images-medium-5/fuji-mountain-in-autumn-doctoregg.jpg?imgWI=36&imgHI=24&sku=CRQ13&mat1=PM918&mat2=&t=2&b=2&l=2&r=2&off=0.5&frameW=0.875",
+      "id": 4
+    },
+    {
+      "name": "Mst Sanzida Khatun",
+      "user_photo": "https://images.pexels.com/photos/1382734/pexels-photo-1382734.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "content": "The first option is easy and will work if your theme offers this functionality. Please note that the process can differ on theme purchases but generally follows similar guidelines. We’ll use the Highend Multipurpose WordPress theme for this demo because it features one-click demo imports from the theme dashboard.",
+      "post_image": "https://photos.com/images/rendered/default/framed-print/images-medium-5/fuji-mountain-in-autumn-doctoregg.jpg?imgWI=36&imgHI=24&sku=CRQ13&mat1=PM918&mat2=&t=2&b=2&l=2&r=2&off=0.5&frameW=0.875",
+      "id": 5
+    }
+  ]
+}

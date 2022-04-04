@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"/>
+    <title>Facebook Post and Timeline Management</title>
+</head>
+<body> 
+
+<section class="post-area">
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-5">
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <div class="user-post-area">
+                            <img id="user_profile" alt="">
+                            <button data-bs-toggle = "modal" data-bs-target="#post-container">What's on your mind, Ariful?</button>
+                        </div>
+                    </div>
+                    <hr>
+                    <div class="row px-3 activity">
+                        <div class="col-md-4">
+                         <p> <span><i class="fas fa-video"></i></span> Live Video</p>
+                        </div>
+                        <div class="col-md-4">
+                            <p> <span><i class="fa-solid fa-photo-film"></i></span> Photo/Video</p>
+                        </div>
+                        <div class="col-md-4">
+                            <p> <span><i class="fa-solid fa-face-grin"></i></span> Feeling/Activity</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+        
+    </div>
+</section>
+
+   <section class="timeline my-4">
+      <div class="container">
+        <div class="row justify-content-center">
+            <div id="post_show" class="col-md-5">
+                <!-- <div class="card my-3 shadow-sm">
+                    <div class="card-body">
+                      <div class="user-post-info d-flex justify-content-between">
+                          <div class="user-info d-flex align-items-center">
+                            <img  src="https://i0.wp.com/www.proariful.me/php_assets/uploads/2021/06/Arif1.png?w=500&ssl=1" alt="">
+                              <h6>Ariful Islam Noyon</h6>
+                          </div>
+                          <button>...</button>
+                      </div>
+                      <div class="post-content">
+                          <p>আপনি যদি কাউকে ভালবেসে ফেলেন তারপর যদি তাকে বিয়ে করার জন্য মরিয়া হয়ে উঠেন তাহলে বুঝবেন আপনার ভালবাসার সাথে কিছু মোহ আছে। আর যদি তাকে আপনার চাইতে ভাল মানুষের সাথে বিয়ে দিতে চান তাহলে নিশ্চিত হতে পারেন আপনার ভালবাসাটা সত্যিকারের।</p>
+                          <img class="w-100" src="https://cdn.britannica.com/84/73184-004-E5A450B5/Sunflower-field-Fargo-North-Dakota.jpg" alt="">
+                      </div>
+                    </div>
+                </div> -->
+               
+            </div>
+       </div>
+      </div>
+   </section>
+    
+   <!-- Modal Start  -->
+
+   <div class="modal fade mt-5" id="post-container">
+       <div class="modal-dialog">
+           <div class="modal-content">
+               <div class="modal-header d-block">
+                   <h4 class="text-center d-block">Create a Post</h4>
+               </div>
+               <div class="modal-body">
+                   <div class="msg"></div>
+                   <form method="POST" id="create_post_form">
+                       <div class="my-2">
+                           <input name="name" type="text" class="form-control" placeholder="Name">
+                       </div>
+                       <div class="my-2">
+                        <input name="u_photo" type="text" class="form-control" placeholder="Photo">
+                    </div>
+                    <div class="my-2">
+                        <input name="p_content" type="text" class="form-control" placeholder="Content">
+                    </div>
+                    <div class="my-2">
+                        <input name="p_photo" type="text" class="form-control" placeholder="Post Image">
+                    </div>
+                    <div class="my-2">
+                        <input type="submit" class="btn btn-primary w-100" value="Post Now">
+                    </div>
+                   </form>
+               </div>
+           </div>
+       </div>
+   </div>
+
+   
+
+
+</body>
+</html>
